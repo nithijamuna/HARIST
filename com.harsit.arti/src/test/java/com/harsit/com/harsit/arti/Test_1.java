@@ -7,7 +7,7 @@ public class Test_1
 	@Test
 	public static void Arul()
 	{
-		System.out.println("Welcome Arulventhan");
+		System.out.println("Welcome Arulventhan and nithya");
 		
 	}
 }

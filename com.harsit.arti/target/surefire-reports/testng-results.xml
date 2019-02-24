@@ -2,12 +2,12 @@
 <testng-results skipped="0" failed="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="com.harsit.com.harsit.arti.Test_1" duration-ms="26" started-at="2019-02-24T04:06:36Z" finished-at="2019-02-24T04:06:36Z">
+  <suite name="com.harsit.com.harsit.arti.Test_1" duration-ms="31" started-at="2019-02-24T11:07:49Z" finished-at="2019-02-24T11:07:49Z">
     <groups>
     </groups>
-    <test name="Command line test" duration-ms="26" started-at="2019-02-24T04:06:36Z" finished-at="2019-02-24T04:06:36Z">
+    <test name="Command line test" duration-ms="31" started-at="2019-02-24T11:07:49Z" finished-at="2019-02-24T11:07:49Z">
       <class name="com.harsit.com.harsit.arti.Test_1">
-        <test-method status="PASS" signature="Arul()[pri:0, instance:com.harsit.com.harsit.arti.Test_1@59a6e353]" name="Arul" duration-ms="8" started-at="2019-02-24T09:36:36Z" finished-at="2019-02-24T09:36:36Z">
+        <test-method status="PASS" signature="Arul()[pri:0, instance:com.harsit.com.harsit.arti.Test_1@59a6e353]" name="Arul" duration-ms="0" started-at="2019-02-24T16:37:49Z" finished-at="2019-02-24T16:37:49Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Arul -->

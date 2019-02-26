@@ -21,7 +21,7 @@ public class Test_1
 		driver.get("https://www.google.com/");
 		driver.findElement(By.name("q")).sendKeys("arul");
 		driver.manage().timeouts().implicitlyWait(30,TimeUnit.SECONDS);
-		driver.close();
+		//driver.close();
 				
 		
 	}
